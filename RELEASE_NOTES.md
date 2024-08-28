@@ -7,6 +7,7 @@ Base on U-Boot mainline version: U-Boot-2019.10
 ## 2. Change Log
 ### U-Boot-2019.10-Astra-v1.1.0
 Fastboot:
+
 	- Add "oem run" to support all U-Boot commands
 	- Add "flash ram" to download files into memory
 
@@ -15,14 +16,17 @@ General:
 
 ### U-Boot-2019.10-Astra-v1.0.1
 mmc:
+
 	- Update eMMC & SDIO HW settings to work on all Astra board versions
 	- Add flag to force eMMC & SDIO to low speed
 
 General:
+
 	- SL1640: Fix environment saving issue on SPI flash
 
 ### U-Boot-2019.10-Astra-v1.0.0
 General:
+
 	- Support USB2.0 device
 	- Support USB3.0 host
 	- Support Ethernet
