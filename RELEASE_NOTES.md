@@ -52,5 +52,6 @@ General:
 fix: run command: "setenv usb_pgood_delay 1000;", can save on SPI U-Boot and SU-Boot by "saveenv"
 
 ### 3.2 Some customer designed boards can't work with eMMC/SDIO high speed
-fix: run command: "setenv force_mmc_low_speed 1; setenv force_sd_low_speed 1;", can save on SPI U-Boot and SU-Boot by "saveenv"
+fix: run command: "setenv force_mmc_low_speed 1; setenv force_sd_low_speed 1;", can save on SPI U-Boot and SU-Boot by "saveenv",  
+run "mmc rescan" to take effect.  
 **This fix only works from v1.0.1**
