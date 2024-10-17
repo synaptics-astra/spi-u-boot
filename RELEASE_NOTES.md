@@ -2,11 +2,10 @@
 
 ## 1. Information
 
-Base on U-Boot mainline version: U-Boot-2019.10
+Based on U-Boot mainline version: U-Boot-2019.10
 
 ## 2. Change Log
-## U-Boot-2019.10-Astra-v1.1.1
---------------------
+### U-Boot-2019.10-Astra-v1.1.1
 General:
 	- Update keys for OPTEE
 
