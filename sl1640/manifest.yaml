@@ -1,0 +1,5 @@
+boot_firmware: 995d39f2-8fed-11ef-b39e-73744d87345c
+image_type: spi
+chip: sl1640
+board: rdk
+image_file: u-boot-astra-v1.1.1.sl1640.rdk.spi.bin
