@@ -1,4 +1,4 @@
-boot_firmware: 995d39f2-8fed-11ef-b39e-73744d87345c
+boot_image: 2035c1e6-ca2d-11ef-9083-9ba0a441914d
 image_type: spi
 chip: sl1640
 board: rdk

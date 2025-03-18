@@ -1,5 +1,5 @@
-boot_firmware: 5feaa842-ca2d-11ef-b679-1b91f78e8fc1
+boot_image: 5feaa842-ca2d-11ef-b679-1b91f78e8fc1
 image_type: spi
 chip: sl1620
 board: rdk
-image_file: u-boot-astra-v1.1.1.sl1680.rdk.spi.bin
+image_file: u-boot-astra-v1.1.1.sl1620.rdk.spi.bin
