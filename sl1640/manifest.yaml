@@ -1,0 +1,5 @@
+boot_image: 2035c1e6-ca2d-11ef-9083-9ba0a441914d
+image_type: spi
+chip: sl1640
+board: rdk
+image_file: u-boot-astra-v1.1.1.sl1640.rdk.spi.bin
