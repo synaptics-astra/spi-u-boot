@@ -1,4 +1,4 @@
-boot_image: 1e080362-360b-11f0-89a3-0242ac110002
+boot_image: 9930c714-375e-11f0-b558-0242ac110002
 image_type: spi
 chip: sl1680
 board: rdk
