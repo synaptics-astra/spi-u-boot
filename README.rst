@@ -1,7 +1,7 @@
 Synaptics Astra SPI U-Boot Images
 =================================
 
-This repository contains the prebuilt SPI U-Boot images which are installed on the Astra Machine SL16x0 series devices.
+This repository contains the prebuilt SPI U-Boot images which are installed on the Astra Machina SL16x0 and SL261x series devices.
 These images can be used to update or restore the U-Boot firmware stored on the internal SPI flash located on the core
 module.
 
