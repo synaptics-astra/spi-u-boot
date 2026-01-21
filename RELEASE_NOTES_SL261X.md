@@ -8,6 +8,12 @@ Based on U-Boot mainline version: U-Boot-2025.01
 # 2. Change Log
 ====================
 
+## U-Boot-2025.01-Astra-v1.0.3
+--------------------
+General:
+	- Support revC board
+	- Support fastboot on USB type-C and ethernet
+
 ## U-Boot-2025.01-Astra-v1.0.2
 --------------------
 General:
