@@ -6,6 +6,11 @@ Based on U-Boot mainline version: U-Boot-2025.01
 
 ## 2. Change Log
 
+### U-Boot-2025.01-Astra-v1.0.4
+General:
+
+	- Update pre-bootloader to support A1 chip
+
 ### U-Boot-2025.01-Astra-v1.0.3
 General:
 
