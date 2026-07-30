@@ -6,6 +6,11 @@ Based on U-Boot mainline version: U-Boot-2025.01
 
 ## 2. Change Log
 
+### U-Boot-2025.01-Astra-v2.5.0
+General:
+
+	- Align with Astra SDK release v2.5.0
+
 ### U-Boot-2025.01-Astra-v1.0.4
 General:
 
