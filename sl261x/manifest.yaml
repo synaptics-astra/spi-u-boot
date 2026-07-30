@@ -1,4 +1,4 @@
 image_type: spi
 chip: sl2610
 board: rdk
-image_file: u-boot-astra-v1.0.4.sl2610.rdk.spi.bin
+image_file: spi_suboot_v2.5.bin
